@@ -1,6 +1,6 @@
 category: javascript
 <<<<<<< HEAD
-lectures: Park
+lectures: Shin
 related: node.js
 =======
 title: javascript basic
