@@ -1,7 +1,7 @@
 category: python
-lectures: Song
+lectures: Ryu
 related:
 - AI
 - Django
 - pycharm
-- ML
+- MLg
