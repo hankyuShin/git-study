@@ -3,7 +3,7 @@ category: java
 lectures: Lim
 related: Polymorphism
 =======
-title: java advanced
+title: java basic
 lectures: Lim
 related:
 >>>>>>> update-title
