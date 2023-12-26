@@ -1,5 +1,6 @@
 category: html
-lectures: Lee
+title: html basic
+lectures: Kim
 related:
 - css
 - javascript
