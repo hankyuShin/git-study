@@ -1,4 +1,4 @@
-title: java basic
+title: java
 lectures: Lim
 related:
 - spring
