@@ -1,5 +1,5 @@
 title: java
-lectures: Lim
+lectures: Kang
 related:
 - spring
 - MVC
