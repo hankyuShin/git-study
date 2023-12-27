@@ -6,3 +6,4 @@ related:
 - class
 -springboot
 -exception
+-extends
